@@ -53,7 +53,7 @@
 - Designing projects that are simple to use but technically solid.
 - Polishing personal website and portfolio experience.
 - Improving project quality and consistency across my repositories.
-
+- Learning more langauges such as TypeScript, C and SQL.
 ---
 
 ## Featured Projects
