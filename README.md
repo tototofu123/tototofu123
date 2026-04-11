@@ -97,8 +97,8 @@
 ## GitHub Stats
 
 <p align="center">
-	<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tototofu123&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-	<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tototofu123&layout=compact&theme=solarized-light&hide_border=true&langs_count=8" alt="Top Languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tototofu123&theme=github_dark" alt="GitHub Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tototofu123&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -106,6 +106,8 @@
 </p>
 
 <p align="center">
+	<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tototofu123&theme=github_dark">Open Full Profile Stats Card</a>
+	<br />
 	<a href="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&margin-w=12">Open GitHub Trophies Card</a>
 </p>
 
