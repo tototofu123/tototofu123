@@ -97,16 +97,16 @@
 ## GitHub Stats
 
 <p align="center">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=tototofu123&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tototofu123&layout=compact&theme=solarized-light&hide_border=true&langs_count=8" alt="Top Languages" />
+	<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tototofu123&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+	<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tototofu123&layout=compact&theme=solarized-light&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-	<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tototofu123&theme=solarized-light&hide_border=true" alt="GitHub Streak" />
+	<img height="180" src="https://streak-stats.demolab.com?user=tototofu123&theme=solarized-light&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&margin-w=12" alt="GitHub Trophies" />
+	<a href="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&margin-w=12">Open GitHub Trophies Card</a>
 </p>
 
 ---
