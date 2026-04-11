@@ -11,39 +11,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/tototofu123">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-	</a>
-	<a href="https://linkedin.com/in/lai-man-to">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="mailto:tototofu0601@gmail.com">
-		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
-	<a href="https://lai.codes/">
-		<img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-	</a>
-</p>
-
----
-
-## About Me
-
-- Building practical projects that combine Python, AI, and web development.
-- Interested in computer vision, small automation tools, and productivity workflows.
-- Enjoy turning ideas into usable apps, from mini games to full web tools.
-- Currently improving TypeScript, C, and SQL while expanding AI-related projects.
-
----
-
-## Current Focus
-
-- Building and improving HKUST climbing related web and AI tools.
-- Experimenting with OpenCV and lightweight AI workflows.
-- Designing projects that are simple to use but technically solid.
-- Polishing personal website and portfolio experience.
-
 ---
 
 ## Tech Stack
@@ -54,10 +21,40 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" /></a>
 	<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
-	<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-	<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" /></a>
-	<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
+	<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+	<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" /></a>
+	<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 </p>
+
+---
+
+## Contact
+
+<p>
+	<a href="https://github.com/tototofu123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="mailto:tototofu0601@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+---
+
+## About Me
+
+- Building practical projects that combine Python, AI, and web development.
+- Interested in computer vision, small automation tools, and productivity workflows.
+- Enjoy turning ideas into usable apps, from mini games to full web tools.
+- Focused on projects that are useful, clean, and easy to maintain.
+
+---
+
+## Current Focus
+
+- Building and improving HKUST climbing related web and AI tools.
+- Experimenting with OpenCV and lightweight AI workflows.
+- Designing projects that are simple to use but technically solid.
+- Polishing personal website and portfolio experience.
+- Learning TypeScript, C, and SQL.
 
 ---
 
@@ -128,7 +125,7 @@
 ## Random Dev Quote
 
 <p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+	<strong>Don't let your dreams be dreams, just do it</strong>
 </p>
 
 ---
