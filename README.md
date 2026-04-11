@@ -22,9 +22,6 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" /></a>
 	<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
-	<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-	<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" /></a>
-	<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 </p>
 
 ---
@@ -55,7 +52,7 @@
 - Experimenting with OpenCV and lightweight AI workflows.
 - Designing projects that are simple to use but technically solid.
 - Polishing personal website and portfolio experience.
-- Learning TypeScript, C, and SQL.
+- Improving project quality and consistency across my repositories.
 
 ---
 
@@ -72,7 +69,7 @@
 - <a href="https://github.com/tototofu123/hkust-climb-chatbot"><b>hkust-climb-chatbot</b></a>  
 	Python-based RAG chatbot project with local model support.
 
-### Python + AI / CV Related
+### AI and Computer Vision
 
 - <a href="https://github.com/tototofu123/is-it-ai-image"><b>is-it-ai-image</b></a>  
 	AI vs real image classification project optimized for web inference.
@@ -80,8 +77,12 @@
 - <a href="https://github.com/tototofu123/fingercount"><b>fingercount</b></a>  
 	Finger-count recognition project connected to computer vision workflows.
 
+### Python and Practical Builds
+
 - <a href="https://github.com/tototofu123/connect4"><b>connect4</b></a>  
 	Python game project demonstrating clean logic and implementation.
+
+### Web and Utility Projects
 
 - <a href="https://github.com/tototofu123/char-to-bitmap"><b>char-to-bitmap</b></a>  
 	Text/character to bitmap conversion utility.
@@ -119,16 +120,12 @@
 	<img src="https://raw.githubusercontent.com/tototofu123/tototofu123/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
-<p align="center">
-	If this image is empty, enable the snake GitHub Action in tototofu123/tototofu123.
-</p>
-
 ---
 
-## Random Dev Quote
+## My Motto
 
 <p align="center">
-	<strong>Don't let your dreams be dreams, just do it</strong>
+	<strong>'Don't let your dreams be dreams, just do it.'</strong>
 </p>
 
 ---
