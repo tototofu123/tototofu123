@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Toto</h1>
 <h3 align="center">Python + AI Project Builder and Web Developer</h3>
-<!-- profile-refresh: 2026-04-11 -->
+<!-- profile-refresh: 2026-05-12 -->
 
 <p align="center">
 	Mainly Python and web. Building practical tools, AI experiments, and agent-style productivity projects.
@@ -59,39 +59,21 @@
 ## Featured Projects
 
 ### Core Picks
-
-- <a href="https://github.com/tototofu123/hkust_climb_soc_web"><b>hkust_climb_soc_web</b></a>  
-	HKUST Climbing Society website project with modern frontend engineering.
-
-- <a href="https://github.com/tototofu123/hk-bus-fetch"><b>hk-bus-fetch</b></a>  
-	JavaScript bus route and data fetching project focused on practical daily use.
-
-- <a href="https://github.com/tototofu123/hkust-climb-chatbot"><b>hkust-climb-chatbot</b></a>  
-	Python-based RAG chatbot project with local model support.
+- [hkust_climb_soc_web](https://github.com/tototofu123/hkust_climb_soc_web) - HKUST Climbing Society website project with modern frontend engineering.
+- [hk-bus-fetch](https://github.com/tototofu123/hk-bus-fetch) - JavaScript bus route and data fetching project focused on practical daily use.
+- [hkust-climb-chatbot](https://github.com/tototofu123/hkust-climb-chatbot) - Python-based RAG chatbot project with local model support.
 
 ### AI and Computer Vision
-
-- <a href="https://github.com/tototofu123/is-it-ai-image"><b>is-it-ai-image</b></a>  
-	AI vs real image classification project optimized for web inference.
-
-- <a href="https://github.com/tototofu123/fingercount"><b>fingercount</b></a>  
-	Finger-count recognition project connected to computer vision workflows.
+- [is-it-ai-image](https://github.com/tototofu123/is-it-ai-image) - AI vs real image classification project optimized for web inference.
+- [fingercount](https://github.com/tototofu123/fingercount) - Finger-count recognition project connected to computer vision workflows.
 
 ### Python and Practical Builds
-
-- <a href="https://github.com/tototofu123/connect4"><b>connect4</b></a>  
-	Python game project demonstrating clean logic and implementation.
+- [connect4](https://github.com/tototofu123/connect4) - Python game project demonstrating clean logic and implementation.
 
 ### Web and Utility Projects
-
-- <a href="https://github.com/tototofu123/char-to-bitmap"><b>char-to-bitmap</b></a>  
-	Text/character to bitmap conversion utility.
-
-- <a href="https://github.com/tototofu123/music-shuffler"><b>music-shuffler</b></a>  
-	Web tool for playlist randomization and interaction.
-
-- <a href="https://github.com/tototofu123/CypherLabEncryption"><b>CypherLabEncryption</b></a>  
-	Educational encryption simulation with practical demonstrations.
+- [char-to-bitmap](https://github.com/tototofu123/char-to-bitmap) - Text/character to bitmap conversion utility.
+- [music-shuffler](https://github.com/tototofu123/music-shuffler) - Web tool for playlist randomization and interaction.
+- [CypherLabEncryption](https://github.com/tototofu123/CypherLabEncryption) - Educational encryption simulation with practical demonstrations.
 
 ---
 
