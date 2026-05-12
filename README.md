@@ -1,35 +1,62 @@
-<!-- 
-  🪵 tototofu123 | Engineering & Design
-  Premium Profile System 
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tototofu123/tototofu123.github.io/main/assets/banner.png" width="100%" alt="tototofu123 Portfolio Banner">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F57C00&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Toto;Python+%2B+AI+Builder;Web+Developer;Hardware+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" alt="github trophies" /></a>
-</p>
+<h1 align="center">Hi, I am Toto</h1>
+<h3 align="center">Python + AI Project Builder and Web Developer</h3>
+<!-- profile-refresh: 2026-05-12 -->
 
 <p align="center">
 	Mainly Python and web. Building practical tools, AI experiments, and agent-style productivity projects.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-ESP32-E34F26?style=for-the-badge&logo=espressif" />
+	<a href="https://komarev.com/ghpvc/?username=tototofu123&label=Profile%20views&color=d97706&style=flat">
+		<img src="https://komarev.com/ghpvc/?username=tototofu123&label=Profile%20views&color=d97706&style=flat" alt="profile views" />
+	</a>
 </p>
 
 ---
 
-### 🧩 The Project Matrix
+## Tech Stack
+
+<p>
+	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" /></a>
+	<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+</p>
+
+---
+
+## Contact
+
+<p>
+	<a href="https://github.com/tototofu123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="mailto:tototofu0601@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+---
+
+## About Me
+
+- Building practical projects that combine Python, AI, and web development.
+- Interested in computer vision, small automation tools, and productivity workflows.
+- Enjoy turning ideas into usable apps, from mini games to full web tools.
+- Focused on projects that are useful, clean, and easy to maintain.
+
+---
+
+## Current Focus
+
+- Building and improving HKUST climbing related web and AI tools.
+- Experimenting with OpenCV and lightweight AI workflows.
+- Designing projects that are simple to use but technically solid.
+- Polishing personal website and portfolio experience.
+- Improving project quality and consistency across my repositories.
+
+---
+
+## 🧩 The Project Matrix
 
 I specialize in building tools that bridge the gap between AI logic and practical web interfaces.
 
@@ -44,32 +71,47 @@ I specialize in building tools that bridge the gap between AI logic and practica
 
 ---
 
-### 🧠 Current Focus & Growth
-- 🛠️ **Refining**: The "Wood & Orange" Design System across all web projects.
-- 🤖 **Exploring**: Local LLM orchestration and agentic workflows.
-- 🏗️ **Building**: A unified project showcase at [**repo.lai.codes**](https://repo.lai.codes).
+## GitHub Stats
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tototofu123&theme=github_dark" alt="GitHub Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tototofu123&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+	<img height="180" src="https://streak-stats.demolab.com?user=tototofu123&theme=solarized-light&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+	<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tototofu123&theme=github_dark">Open Full Profile Stats Card</a>
+	<br />
+	<a href="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&margin-w=12">Open GitHub Trophies Card</a>
+</p>
 
 ---
 
-### 📊 Vital Signs & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tototofu123&show_icons=true&theme=tokyonight&border_color=F57C00&title_color=F57C00&bg_color=121212" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tototofu123&layout=compact&theme=tokyonight&border_color=F57C00&title_color=F57C00&bg_color=121212" alt="Top Langs" width="48%">
-</p>
+## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tototofu123/tototofu123/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+	<img src="https://raw.githubusercontent.com/tototofu123/tototofu123/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
 
-### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:tototofu0601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lai.codes/"><img src="https://img.shields.io/badge/Portfolio-F57C00?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+	<strong>'Don't let your dreams be dreams, just do it.'</strong>
 </p>
 
+---
+
+## Fun Facts
+
+- I like building things that solve real-life small pains quickly.
+- I enjoy mixing AI ideas with practical web interfaces.
+- I keep iterating projects until they are cleaner and more usable.
+
+---
+
 <p align="center">
-  <strong>'Don't let your dreams be dreams, just do it.'</strong>
+	If you like what I build, check out and star the projects you find useful.
 </p>
