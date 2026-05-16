@@ -67,8 +67,6 @@ I specialize in building tools that bridge the gap between AI logic and practica
 | [**Finger Count**](https://github.com/tototofu123/fingercount) | 🤖 AI/CV | `Python` `CV2` | 🛠️ | Machine learning project for gesture recognition. |
 | [**Cypher Lab**](https://github.com/tototofu123/CypherLabEncryption) | 🔐 Security | `React` `TS` | 🚀 | Interactive educational suite for cryptography. |
 | [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | 🎵 Web App | `JS` `SQL` | 🚀 | Advanced playlist randomization engine. |
-| [**RAG Chatbot**](https://github.com/tototofu123/hkust-climb-chatbot) | 🧠 NLP | `Python` `Ollama` | 🛠️ | Knowledge-base bot with local model support. |
-
 ---
 
 ## GitHub Stats
