@@ -69,25 +69,6 @@ I specialize in building tools that bridge the gap between AI logic and practica
 | [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | 🎵 Web App | `JS` `SQL` | 🚀 | Advanced playlist randomization engine. |
 ---
 
-## GitHub Stats
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tototofu123&theme=github_dark" alt="GitHub Stats" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tototofu123&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-	<img height="180" src="https://streak-stats.demolab.com?user=tototofu123&theme=solarized-light&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-	<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tototofu123&theme=github_dark">Open Full Profile Stats Card</a>
-	<br />
-	<a href="https://github-profile-trophy.vercel.app/?username=tototofu123&theme=flat&no-frame=true&no-bg=true&margin-w=12">Open GitHub Trophies Card</a>
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
