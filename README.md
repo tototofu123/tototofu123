@@ -48,11 +48,10 @@
 
 ## Current Focus
 
-- Building and improving HKUST climbing related web and AI tools.
-- Experimenting with OpenCV and lightweight AI workflows.
-- Designing projects that are simple to use but technically solid.
+- Building HKUST Climbing Web App with integration of algorithm-based route setting and personal preference.
+- Experimenting with AI workflows.
+- Creating small and fun games using Javascript and Python.
 - Polishing personal website and portfolio experience.
-- Improving project quality and consistency across my repositories.
 
 ---
 
@@ -62,11 +61,9 @@ I specialize in building tools that bridge the gap between AI logic and practica
 
 | Project | Category | Tech Stack | Status | One-Line Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| [**Climbing Society**](https://github.com/tototofu123/hkust_climb_soc_web) | 🌐 Web | `React` `Vite` | 🚀 | Modern frontend for the HKUST Climbing community. |
-| [**Bus Fetcher**](https://github.com/tototofu123/hk-bus-fetch) | 🚌 Utility | `JS` `API` | 🚀 | Real-time transit tracking focused on daily utility. |
-| [**Finger Count**](https://github.com/tototofu123/fingercount) | 🤖 AI/CV | `Python` `CV2` | 🛠️ | Machine learning project for gesture recognition. |
-| [**Cypher Lab**](https://github.com/tototofu123/CypherLabEncryption) | 🔐 Security | `React` `TS` | 🚀 | Interactive educational suite for cryptography. |
-| [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | 🎵 Web App | `JS` `SQL` | 🚀 | Advanced playlist randomization engine. |
+| [**Climbing Society**](https://github.com/tototofu123/hkust_climb_soc_web) | Info Website | `React` | Modern frontend for the HKUST Climbing community. |
+| [**Bus Fetcher**](https://github.com/tototofu123/hk-bus-fetch) | Utility | `JS` | Real-time transit tracking focused on daily utility. |
+| [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | Web App | `JS` | Advanced playlist randomization engine. |
 ---
 
 ## Contribution Snake
@@ -74,20 +71,6 @@ I specialize in building tools that bridge the gap between AI logic and practica
 <p align="center">
 	<img src="https://raw.githubusercontent.com/tototofu123/tototofu123/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
-
----
-
-<p align="center">
-	<strong>'Don't let your dreams be dreams, just do it.'</strong>
-</p>
-
----
-
-## Fun Facts
-
-- I like building things that solve real-life small pains quickly.
-- I enjoy mixing AI ideas with practical web interfaces.
-- I keep iterating projects until they are cleaner and more usable.
 
 ---
 
