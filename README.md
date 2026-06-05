@@ -59,11 +59,11 @@
 
 I specialize in building tools that bridge the gap between AI logic and practical web interfaces.
 
-| Project | Category | Tech Stack | Description|
-| :--- | :--- | :--- | :--- |
-| [**Climbing Society**](https://github.com/tototofu123/hkust_climb_soc_web) | Info Website | `React` | Modern frontend for the HKUST Climbing community. |
-| [**Bus Fetcher**](https://github.com/tototofu123/hk-bus-fetch) | Utility | `JS` | Real-time transit tracking focused on daily utility. |
-| [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | Web App | `JS` | Advanced playlist randomization engine. |
+| Project | Category | Description|
+| :--- | :--- | :--- |
+| [**Climbing Society**](https://github.com/tototofu123/hkust_climb_soc_web) | Info Website |  Modern frontend for the HKUST Climbing community. |
+| [**Bus Fetcher**](https://github.com/tototofu123/hk-bus-fetch) | Utility | Real-time transit tracking focused on daily utility. |
+| [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | Web App | Advanced playlist randomization engine. |
 ---
 
 ## Contribution Snake
