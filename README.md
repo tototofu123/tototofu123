@@ -55,25 +55,8 @@
 
 ---
 
-## 🧩 The Project Matrix
-
-I specialize in building tools that bridge the gap between AI logic and practical web interfaces.
-
-| Project | Category | Description|
-| :--- | :--- | :--- |
-| [**Climbing Society**](https://github.com/tototofu123/hkust_climb_soc_web) | Info Website |  Modern frontend for the HKUST Climbing community. |
-| [**Bus Fetcher**](https://github.com/tototofu123/hk-bus-fetch) | Utility | Real-time transit tracking focused on daily utility. |
-| [**Music Shuffler**](https://github.com/tototofu123/music-shuffler) | Web App | Advanced playlist randomization engine. |
----
-
 ## Contribution Snake
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/tototofu123/tototofu123/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
----
-
-<p align="center">
-	If you like what I build, check out and star the projects you find useful.
 </p>
