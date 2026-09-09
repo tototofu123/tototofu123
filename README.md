@@ -29,7 +29,6 @@
 ## Contact
 
 <p>
-	<a href="https://github.com/tototofu123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 	<a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 	<a href="mailto:tototofu0601@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -43,15 +42,6 @@
 - Interested in computer vision, small automation tools, and productivity workflows.
 - Enjoy turning ideas into usable apps, from mini games to full web tools.
 - Focused on projects that are useful, clean, and easy to maintain.
-
----
-
-## Current Focus
-
-- Building HKUST Climbing Web App with integration of algorithm-based route setting and personal preference.
-- Experimenting with AI workflows.
-- Creating small and fun games using Javascript and Python.
-- Polishing personal website and portfolio experience.
 
 ---
 
