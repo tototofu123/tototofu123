@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I am Toto</h1>
 
-
-<p align="center">
-	<a href="https://komarev.com/ghpvc/?username=tototofu123&label=Profile%20views&color=d97706&style=flat">
-		<img src="https://komarev.com/ghpvc/?username=tototofu123&label=Profile%20views&color=d97706&style=flat" alt="profile views" />
-	</a>
-</p>
-
----
-
 ## Tech Stack
 
 <p>
@@ -25,7 +16,6 @@
 
 <p>
 	<a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="mailto:tototofu0601@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
