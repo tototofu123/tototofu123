@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I am Toto</h1>
-<h3 align="center">Python + AI Project Builder and Web Developer</h3>
-<!-- profile-refresh: 2026-05-12 -->
 
-<p align="center">
-	Mainly Python and web. Building practical tools, AI experiments, and agent-style productivity projects.
-</p>
 
 <p align="center">
 	<a href="https://komarev.com/ghpvc/?username=tototofu123&label=Profile%20views&color=d97706&style=flat">
@@ -34,14 +29,6 @@
 	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
----
-
-## About Me
-
-- Building practical projects that combine Python, AI, and web development.
-- Interested in computer vision, small automation tools, and productivity workflows.
-- Enjoy turning ideas into usable apps, from mini games to full web tools.
-- Focused on projects that are useful, clean, and easy to maintain.
 
 ---
 
