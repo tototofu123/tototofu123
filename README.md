@@ -10,16 +10,11 @@
 	<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
 </p>
 
----
-
-## Contact
 
 <p>
 	<a href="https://linkedin.com/in/lai-man-to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://lai.codes/"><img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+
 </p>
-
-
 ---
 
 ## Contribution Snake
